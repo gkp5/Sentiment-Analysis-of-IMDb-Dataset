@@ -8,9 +8,13 @@ This project uses a fine-tuned *BERT-Large Uncased* model to perform text classi
 
 AIDS_Project/
 │
+
 ├── AIDS_Project.ipynb          # Main Jupyter notebook
+
 ├── README.md                   # Project description and instructions
+
 ├── requirements.txt            # Python dependencies
+
 └── (data/)                     # Folder for training, validation, and test data (optional)
 
 
